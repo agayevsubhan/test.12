@@ -1,0 +1,44 @@
+div{
+width: 330px;
+height: 455px;
+border: 2px solid dimgray;
+margin-left: 50px;
+margin-top: 50px;
+}
+.kitab:hover{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+   
+}    
+
+
+
+img{
+    width: 330px;
+height: 250px;
+}
+img:hover{  transform: scale(0.9);
+    
+}
+.test1{
+    margin-left: 12px;
+    font-size: 18px;
+
+
+}
+
+
+
+.test2{
+margin-left: 12px;
+font-size: 18px;
+}
+button{
+margin-left:12px;
+border-radius: 15px;
+width: 110px;
+height: 30px;
+color:white;
+background-color: dimgray;
+}
